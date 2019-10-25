@@ -1,2 +1,3 @@
 # Pair-programming
-With Charly Laba
+With Charly Laba 
+We need to make sure not to use collections.sort() 
